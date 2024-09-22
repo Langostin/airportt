@@ -1,7 +1,3 @@
-# 
-Memory updated
-Aquí tienes un ejemplo de texto que puedes usar para tu archivo README:
-
 Proyecto de Reserva de Vuelos
 Descripción
 Este proyecto es una aplicación web para la reserva de vuelos, desarrollada como parte de una práctica universitaria. Permite a los usuarios buscar vuelos, realizar reservas y gestionar sus reservas de manera sencilla y eficiente.
