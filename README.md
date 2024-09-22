@@ -24,7 +24,7 @@ Funcionalidades
 
 Instalación
 Clona este repositorio en tu máquina local:
-git clone <https://github.com/Langostin>
+git clone https://github.com/Langostin/airportt.git
 Configura tu servidor web local (como XAMPP o WAMP) para apuntar al directorio del proyecto.
 
 Importa la base de datos desde el archivo SQL proporcionado.
