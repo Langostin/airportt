@@ -37,7 +37,7 @@ $userDate = $_SESSION['sesion_time'];
             </div>
         </header>
         <div class="btn-cont-inicio">
-            <div class="cont cn1" onclick="window.location.href='search.html'">
+            <div class="cont cn1" onclick="window.location.href='search.php'">
                 <h2>Buscar Vuelos</h2>
             </div>
             
